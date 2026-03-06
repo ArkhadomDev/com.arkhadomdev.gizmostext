@@ -1,3 +1,5 @@
+
+
 # Gizmos Pixel Text 🎨
 Lightweight tool for visual debugging in Scene View.
 
