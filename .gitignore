@@ -1,0 +1,13 @@
+# Unity arquivos temporários
+/[Aa]ssets/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Obj]/
+/[Build]/
+/[Logs]/
+/[MemoryCaptures]/
+
+# Arquivos de solução do VS/Rider
+*.csproj
+*.sln
+*.userprefs

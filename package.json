@@ -1,0 +1,20 @@
+{
+  "name": "com.arkhadomdev.gizmostext",
+  "version": "1.0.0",
+  "displayName": "Gizmos Pixel Text",
+  "description": "Lightweight tool for rendering debug text in Scene View using 16x16 icons from the Pixellari font.",
+  "unity": "2022.3",
+  "author": {
+    "name": "ArkhadomDev",
+    "email": "arkhadomdevofc@gmail.com",
+    "url": "https://github.com/ArkhadomDev"
+  },
+  "category": "Tooling",
+  "keywords": [
+    "gizmos",
+    "debug",
+    "ui",
+    "pixelart",
+    "ai"
+  ]
+}
