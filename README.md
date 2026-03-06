@@ -3,7 +3,7 @@ Lightweight tool for visual debugging in Scene View.
 
 ## Installation
 In the Unity Package Manager, select `Add package from git URL` and paste:
-`https://github.com/Dom-Gdev/com.arkhadomdev.gizmostext.git`
+`https://github.com/ArkhadomDev/com.arkhadomdev.gizmostext.git`
 
 ## Use Example
 ```csharp
