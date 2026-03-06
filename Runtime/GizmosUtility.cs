@@ -52,8 +52,8 @@ namespace Arkhadom.Utility
             if (string.IsNullOrEmpty(text) || Camera.current == null) return;
 
             float totalWidth = (text.Length - 1) * spacing;
-            Vector3 currentPos = position - (Camera.current != null ? Camera.current.transform.right : Vector3.right) * (totalWidth / 2f);
-            Vector3 movement = (Camera.current != null ? Camera.current.transform.right : Vector3.right) * spacing;
+            Vector3 currentPos = position -  Camera.current.transform.right * (totalWidth / 2f);
+            Vector3 movement = Camera.current.transform.right * spacing;
 
             foreach (char c in text)
             {
