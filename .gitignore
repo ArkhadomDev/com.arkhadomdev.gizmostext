@@ -8,7 +8,6 @@
 
 *.sln
 *.userprefs
-*.meta
 
 /bin/
 /obj/
